@@ -1,0 +1,22 @@
+# Generated files
+lex.yy.c
+parser.tab.c
+parser.tab.h
+y.tab.c
+y.tab.h
+compiler.exe
+*.exe
+*.o
+
+# Output files
+output.txt
+run.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+*.swp
+*.swo
